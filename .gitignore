@@ -1,0 +1,3 @@
+# ignore the bin folder and obj folder
+bin/
+obj/
