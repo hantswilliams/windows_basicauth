@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hantswilliams/Development/net/windows_basicauth/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.windows_basicauth.props",
+      "PackagePath": "build\\windows_basicauth.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.windows_basicauth.props",
+      "PackagePath": "buildMultiTargeting\\windows_basicauth.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.windows_basicauth.props",
+      "PackagePath": "buildTransitive\\windows_basicauth.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.windows_basicauth.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

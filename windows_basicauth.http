@@ -1,0 +1,6 @@
+@windows_basicauth_HostAddress = http://localhost:5042
+
+GET {{windows_basicauth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

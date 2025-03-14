@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hltH0EpEdaDQHNlYDze/BitfRWrgOlkt6gTUPNAfO+Y=",
+  "Source": "windows_basicauth",
+  "BasePath": "_content/windows_basicauth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "windows_basicauth/wwwroot",
+      "Source": "windows_basicauth",
+      "ContentRoot": "/Users/hantswilliams/Development/net/windows_basicauth/wwwroot/",
+      "BasePath": "_content/windows_basicauth",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/hantswilliams/Development/net/windows_basicauth/wwwroot/css/site.css",
+      "SourceId": "windows_basicauth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hantswilliams/Development/net/windows_basicauth/wwwroot/",
+      "BasePath": "_content/windows_basicauth",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    }
+  ]
+}

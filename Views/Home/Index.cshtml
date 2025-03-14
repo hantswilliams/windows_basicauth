@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Welcome to your new ASP.NET Core website with Windows authentication.</p>
+    @if (User.Identity?.IsAuthenticated == true)
+    {
+        <p>You are logged in as: @User.Identity.Name</p>
+    }
+    else
+    {
+        <p>You are not currently authenticated.</p>
+    }
+</div>
