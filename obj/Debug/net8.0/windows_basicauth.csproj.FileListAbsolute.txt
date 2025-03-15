@@ -41,3 +41,4 @@
 /Users/hantswilliams/Development/net/windows_basicauth/bin/Debug/net8.0/windows_basicauth.staticwebassets.runtime.json
 /Users/hantswilliams/Development/net/windows_basicauth/obj/Debug/net8.0/windows_basicauth.RazorAssemblyInfo.cache
 /Users/hantswilliams/Development/net/windows_basicauth/obj/Debug/net8.0/windows_basicauth.RazorAssemblyInfo.cs
+/Users/hantswilliams/Development/net/windows_basicauth/obj/Debug/net8.0/windows_basicauth.sourcelink.json

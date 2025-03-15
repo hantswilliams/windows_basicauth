@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("windows_basicauth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29819cc8742359785ca326e877400dc33448e46d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50be9209aca730ae717dbbfca236f116bae2f966")]
 [assembly: System.Reflection.AssemblyProductAttribute("windows_basicauth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("windows_basicauth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
